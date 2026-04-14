@@ -1,4 +1,3 @@
-<img width="1063" height="374" alt="image" src="https://github.com/user-attachments/assets/f9e4a7e1-c66c-4ab5-91dd-3efd4c09f5cc" />
-
-
+# BITBOX - Make your voice a drum machine
+<img width="1063" height="426" alt="image" src="https://github.com/user-attachments/assets/dd6f5837-1946-4eb6-a89c-6617959a913a" />
 
